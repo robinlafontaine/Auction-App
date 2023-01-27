@@ -1,5 +1,3 @@
-// TP2 PAR LAFONTAINE ROBIN, ONEGLIA AXEL ET OZER SABRI - GROUPE TP2
-
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.time.LocalDateTime;
