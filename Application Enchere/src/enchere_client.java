@@ -1,4 +1,3 @@
-// TP2 PAR LAFONTAINE ROBIN, ONEGLIA AXEL ET OZER SABRI - GROUPE TP2
 import java.rmi.Naming;
 import javax.swing.ImageIcon;
 
